@@ -1,0 +1,40 @@
+Prova Informatica e Sociedade
+
+
+
+
+Aluno: joao4
+
+Horario Inicio: 3/10/116 3:24:59
+
+Horario Fim: 3/10/116 3:25:7
+
+
+
+Perguntas: 
+
+	Pergunta: enunciado0
+
+	Resposta: opcaoA
+
+	Status: Errado
+
+	--------------------------
+
+	Pergunta: enunciado1
+
+	Resposta: opcao1
+
+	Status: Errado
+
+	--------------------------
+
+	Pergunta: enunciado2
+
+	Resposta: opcao5
+
+	Status: Errado
+
+	--------------------------
+
+Questoes: 0/3
